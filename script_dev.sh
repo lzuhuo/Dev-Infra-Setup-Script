@@ -12,7 +12,8 @@ else
     mkdir $DIR_TMP
 fi
 
-#Check Url Requisitos para Downloads
+
+## Check Url Requisitos para Downloads
 filename='requirements.txt'
 arrayFile=()
 arrayUrl=()
@@ -40,6 +41,7 @@ while read line; do
   n=$((n+1))
 done < $filename
 
+
 ## Download Files
 
 function download_files(){
@@ -55,7 +57,6 @@ function download_files(){
     echo "Download ${FILE}"
    wget "${URL}" -O "${FILE}"
  fi
-
 }
 
 i=0
@@ -66,6 +67,7 @@ do
     let i++
 done
 
+
 ## Install deb files
 
 echo "Install deb files"
@@ -73,6 +75,7 @@ echo "Please, enter your password"
 cd ${DIR_TMP}
 sudo dpkg -i *.deb
 sudo apt-get install -fy
+
 
 ## Install Git
 sudo apt-get install git -y
