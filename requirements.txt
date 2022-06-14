@@ -1,0 +1,10 @@
+vscode.deb https://az764295.vo.msecnd.net/stable/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/code_1.68.0-1654690107_amd64.deb
+azuredatastudio.deb https://sqlopsbuilds.azureedge.net/stable/2299a76973585fa962cfd06e8acab4abb41567de/azuredatastudio-linux-1.36.2.deb
+zoom.deb https://cdn.zoom.us/prod/5.10.7.3311/zoom_amd64.deb
+vncviewer.deb https://downloads.realvnc.com/download/file/viewer.files/VNC-Viewer-6.22.315-Linux-x64.deb
+anydesk.deb https://download.anydesk.com/linux/anydesk_6.1.1-1_amd64.deb
+libpangox.deb http://ftp.us.debian.org/debian/pool/main/p/pangox-compat/libpangox-1.0-0_0.0.2-5.1_amd64.deb
+dbeaver.deb https://download.dbeaver.com/community/22.1.0/dbeaver-ce_22.1.0_amd64.deb
+edge.deb https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_102.0.1245.41-1_amd64.deb
+freedownload.deb https://dn3.freedownloadmanager.org/6/latest/freedownloadmanager.deb
+microsip.exe https://www.microsip.org/download/MicroSIP-Lite-3.21.2.exe
