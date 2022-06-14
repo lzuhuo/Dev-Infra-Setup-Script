@@ -91,4 +91,5 @@ wine microsip.exe
 
 
 ##Instalando Postman 
+echo "Instalando Postman via Snap"
 snap install postman
