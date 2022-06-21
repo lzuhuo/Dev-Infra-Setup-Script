@@ -7,4 +7,5 @@ libpangox.deb http://ftp.us.debian.org/debian/pool/main/p/pangox-compat/libpango
 dbeaver.deb https://download.dbeaver.com/community/22.1.0/dbeaver-ce_22.1.0_amd64.deb
 edge.deb https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_102.0.1245.41-1_amd64.deb
 freedownload.deb https://dn3.freedownloadmanager.org/6/latest/freedownloadmanager.deb
+thunderbird.deb http://archive.ubuntu.com/ubuntu/pool/main/t/thunderbird/thunderbird_91.8.0+build2-0ubuntu1_amd64.deb
 microsip.exe https://www.microsip.org/download/MicroSIP-Lite-3.21.2.exe
